@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://gursharankaur-portfolio.herokuapp.com/#home-section</loc>
+        <lastmod>2020-04-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+
+     <url>
+       <loc>https://gursharankaur-portfolio.herokuapp.com/#services-section</loc>
+        <lastmod>2020-04-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+       <loc>https://gursharankaur-portfolio.herokuapp.com/#about-section</loc>
+        <lastmod>2020-04-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+
+   
+
+    <url>
+        <loc>https://gursharankaur-portfolio.herokuapp.com/index.html</loc>
+        <lastmod>2020-04-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+      <url>
+        <loc>https://gursharankaur-portfolio.herokuapp.com/index.html#portfolio-section</loc>
+        <lastmod>2020-04-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+      <url>
+        <loc>https://gursharankaur-portfolio.herokuapp.com/index.html#clients-section</loc>
+        <lastmod>2020-04-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+      <url>
+        <loc>https://gursharankaur-portfolio.herokuapp.com/index.html#contact-section</loc>
+        <lastmod>2020-04-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
